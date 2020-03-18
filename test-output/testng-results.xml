@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44097" started-at="2020-02-27T16:12:18 IST" finished-at="2020-02-27T16:13:02 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44097" started-at="2020-02-27T16:12:18 IST" finished-at="2020-02-27T16:13:02 IST">
+      <class name="com.orange.test.Regression">
+        <test-method status="PASS" signature="initiate()[pri:0, instance:com.orange.test.Regression@e0ac58a]" name="initiate" is-config="true" duration-ms="343" started-at="2020-02-27T16:12:18 IST" finished-at="2020-02-27T16:12:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiate -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.orange.test.Regression@e0ac58a]" name="setUp" is-config="true" duration-ms="8695" started-at="2020-02-27T16:12:18 IST" finished-at="2020-02-27T16:12:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.orange.test.Regression@e0ac58a]" name="initDriver" is-config="true" duration-ms="70" started-at="2020-02-27T16:12:27 IST" finished-at="2020-02-27T16:12:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.orange.test.Regression@e0ac58a]" name="startUp" is-config="true" duration-ms="21050" started-at="2020-02-27T16:12:27 IST" finished-at="2020-02-27T16:12:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="test_TC001()[pri:1, instance:com.orange.test.Regression@e0ac58a]" name="test_TC001" duration-ms="14220" started-at="2020-02-27T16:12:48 IST" finished-at="2020-02-27T16:13:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_TC001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orange.test.Regression@e0ac58a]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-02-27T16:13:02 IST" finished-at="2020-02-27T16:13:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.orange.test.Regression@e0ac58a]" name="terminate" is-config="true" duration-ms="1" started-at="2020-02-27T16:13:02 IST" finished-at="2020-02-27T16:13:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="generateReports()[pri:0, instance:com.orange.test.Regression@e0ac58a]" name="generateReports" is-config="true" duration-ms="1" started-at="2020-02-27T16:13:02 IST" finished-at="2020-02-27T16:13:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReports -->
+      </class> <!-- com.orange.test.Regression -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
